@@ -1,6 +1,6 @@
-Kali Linux Notes, Reports & Cheat Sheets:-
+Kali Linux Notes, Report & Cheat Sheets:-
 
-A collection of **concise notes, detailed reports, and handy cheat sheets** for Kali Linux.  
+A collection of concise notes, detailed reports, and handy cheat sheets for Kali Linux.  
 Useful for quick reference, learning cybersecurity tools, and preparing for practical tasks.
 
 📂 Contents
